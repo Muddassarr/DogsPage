@@ -1,0 +1,34 @@
+@media (max-width:767px) {
+    .iphone {
+        float: none;
+        text-align: center
+    }
+    .about_phone {
+        text-align: center
+    }
+    .about_phone img {
+        width: 100%
+    }
+}
+
+@media (min-width:760px) {
+    .iphone {
+        float: none;
+        text-align: center
+    }
+    .about_phone {
+        text-align: center
+    }
+}
+
+@media (min-width:992px) {
+    .iphone {
+        float: right
+    }
+}
+
+@media (min-width:1200px) {
+    .iphone {
+        float: right
+    }
+}
